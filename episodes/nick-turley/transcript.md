@@ -1,14 +1,14 @@
 ---
 guest: Nick Turley
-title: 'Inside OpenAI: 2026 is the year of agents, AI''s biggest bottleneck, and why
-  compute isn''t the issue'
-youtube_url: https://www.youtube.com/watch?v=z1ISq9Ty4Cg
-video_id: z1ISq9Ty4Cg
-description: Alexander Embiricos leads product on Codex, OpenAI's powerful coding
-  agent, which has grown 20x since August and now serves trillions of tokens weekly.
-duration_seconds: 5113.0
-duration: '1:25:13'
-view_count: 25806
+title: 'Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)'
+youtube_url: https://www.youtube.com/watch?v=ixY2PvQJ0To
+video_id: ixY2PvQJ0To
+description: Nick Turley is Head of ChatGPT, the fastest-growing product in history,
+  with 700 million weekly active users (10% of the world's population). He was part
+  of the original hackathon team that built ChatGPT.
+duration_seconds: 5738.0
+duration: '1:35:38'
+view_count: 184717
 channel: Lenny's Podcast
 keywords:
 - growth
@@ -28,7 +28,7 @@ keywords:
 - strategy
 ---
 
-# Inside OpenAI: 2026 is the year of agents, AI's biggest bottleneck, and why compute isn't the issue
+# Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)
 
 ## Transcript
 
