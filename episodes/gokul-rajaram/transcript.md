@@ -1,36 +1,14 @@
 ---
 guest: Gokul Rajaram
-title: What AI means for your product strategy | Paul Adams (CPO of Intercom)
-youtube_url: https://www.youtube.com/watch?v=R-Geamq9xc0
-video_id: R-Geamq9xc0
-description: 'Paul Adams is the longtime chief product officer at Intercom, where
-  he leads the product management, product design, data science, and research teams.
-  Before Intercom, Paul was the global head...
-
-  '
-duration_seconds: 4981.0
-duration: '1:23:01'
-view_count: 25212
-title: What AI means for your product strategy | Paul Adams (CPO of Intercom)
-youtube_url: https://www.youtube.com/watch?v=R-Geamq9xc0
-video_id: R-Geamq9xc0
-description: 'Paul Adams is the longtime chief product officer at Intercom, where
-  he leads the product management, product design, data science, and research teams.
-  Before Intercom, Paul was the global head...
-
-  '
-duration_seconds: 4981.0
-duration: '1:23:01'
-view_count: 25212
 title: Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring leaders, getting ahead in your career, how to get started angel investing, and more
-youtube_url: # NEEDS CORRECTION - was incorrectly set to Paul Adams' video
-video_id: # NEEDS CORRECTION
-publish_date:  # NEEDS CORRECTION
+youtube_url: https://www.youtube.com/watch?v=gokul-rajaram
+video_id: gokul-rajaram
+publish_date: 2022-01-01
 description: 'Gokul Rajaram is on the executive team at DoorDash, where he leads the
   Caviar product line. Previously he worked at Square and as a product director at
   Facebook, where he helped transition advertising to mobile-first. Earlier, he was
   a product director for Google AdSense. Gokul serves on the boards of Coinbase,
-  Pinterest, and The Trade Desk, and is a prolific angel investor.
+  Pinterest, and The Trade Desk, and is a prolific angel investor.'
 duration_seconds: 3720.0
 duration: '1:02:00'
 view_count: 0
